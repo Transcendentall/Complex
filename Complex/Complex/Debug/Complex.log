@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  mainprogram.cpp
+C:\Users\Болычев Леонид\C++\Complex\Complex\mainprogram.cpp(10,9): warning C4101: choose: неиспользованная локальная переменная
+  Создание кода...
+  Complex.vcxproj -> C:\Users\Болычев Леонид\C++\Complex\Debug\Complex.exe
